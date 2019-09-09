@@ -7,6 +7,12 @@ Project 1 - Flocking**
 
 ###
 
+![](images/boids.png)
+
+![](images/boidsGIF.gif)
+
+![](images/boidsGIF2.gif)
+
 ## Part 3: Performance Analysis
 
 I will be using the non-visualization framerate as a benchmark to measure my implementation's performance.
@@ -36,6 +42,3 @@ Boid Count effect on FPS
 
 Block Size effect on FPS
 ![](images/blockSizeGraph.png)
-
-Boids
-![](images/boids.png)
